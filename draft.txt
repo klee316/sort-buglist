@@ -1,0 +1,16 @@
+    #create an array to store all input lines (data)
+    #create another blank array
+
+    #Find train: between second and third colon, and then before a number
+    #Add train to an array if the train does not exist in the array already
+    #now the array has all the trains
+    #sort it by ascending letters
+
+    #loop through the train array
+    #count = 0
+    #copy the train into a new array plus <>
+    #if item in array is found in data
+    #add to the array, count += 1
+    #put the count into the <> string
+
+    #done
